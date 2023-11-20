@@ -1,18 +1,5 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
-  <style>
-    .lora-font {
-      font-family: 'Lora', serif;
-    }
-  </style>
-</head>
-<body>
-  <div style="text-align: center; display: flex; justify-content: center; align-items: center;" class="lora-font">
-    <img src="https://raw.githubusercontent.com/koios-official/DAO_Resources/main/images/logo.png" alt="Koios API Logo" style="margin-right: 10px;">
-    <span><h1 style="color: #73c596; font-size: 48px; margin-left: 80px;">koios</h1><h2 style="margin-left: 80px">Tokenomics</h2></span>
-  </div>
-</body>
-
+![Koios API Logo](https://raw.githubusercontent.com/koios-official/DAO_Resources/main/images/logo.png "Koios Decentralised API logo") 
+# Koios Tokenomics
 
 ## Introduction
 
