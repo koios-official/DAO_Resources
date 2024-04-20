@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="images/token_logo.png" alt="Koios API Logo" title="Koios Decentralised API logo" style="width:200px;">
