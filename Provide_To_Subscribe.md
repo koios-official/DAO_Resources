@@ -22,7 +22,7 @@ Stake Pool Operators (SPOs) can participate in liquidity provision through the "
 - **Liquidity Provision**: On [SundaeSwap DEX](https://sundae.fi/) , Stake Pool Operators are offered the opportunity to augment the liquidity of Koios tokens through the deposit of 2,000 ADA and an equivalent quantity of Koios tokens into a designated liquidity pool.
 - **Automated Participation Tracking**: A signup page is not necessary in order to participate in the "Provide to Subscribe" model. In order to validate the participation of pool operators, the Koios team will conduct cross-referencing between the stake addresses supplied by liquidity providers and the stake addresses of the wallets that the pools have pledged. This enables the Koios team to identify participating pools automatically for each epoch.
 - **Snapshot and Rewards Distribution**: The team can ascertain and validate responsibility for claiming rewards via the [DripDropz](https://dripdropz.io/) platform by capturing a snapshot of the relevant pool delegators at each epoch.
-- **Duration and Limits**: TThe initiative shall persist until the distribution of three million Koios tokens is completed or until it reaches the end of one year (from June 1, 2024 to June 1, 2025), whichever occurs first.
+- **Duration and Limits**: The initiative shall persist until the distribution of three million Koios tokens is completed or until it reaches the end of one year (from June 1, 2024 to June 1, 2025), whichever occurs first.
 
 ## Benefits
 
