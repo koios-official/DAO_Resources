@@ -92,6 +92,6 @@ The Koios treasury receives the remaining 10% of revenue generated from orders f
 
 ### Additional Contributions to Support Node Incentives
 
-To further support the network’s development and to motivate node operators, particularly in the formative years of the network, the Koios treasury will contribute an additional 500,000 Koios tokens to the node reward pool each epoch. This enhanced incentive will begin from the second year (starting June 1, 2025) and will continue annually for the subsequent four years.
+To further support the network's development and to motivate node operators, particularly in the network's early years, the Koios treasury will contribute an additional 500,000 Koios tokens per year to the node reward pool, with only a small portion of this amount distributed in each epoch. This enhanced incentive will begin from the second year (starting June 1, 2025) and will continue annually for the subsequent four years.
 
 By strategically redistributing resources, this not only provides a direct incentive for contributions from nodes but also fosters an ongoing cycle of investment and expansion within the ecosystem. The operational excellence and sustainability of the decentralized Koios network are supported by this strategy, which strikes a balance between short-term rewards and long-term growth incentives.
