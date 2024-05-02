@@ -21,13 +21,14 @@ Stake Pool Operators (SPOs) can participate in liquidity provision through the "
 
 - **Liquidity Provision**: On [SundaeSwap DEX](https://sundae.fi/) , Stake Pool Operators are offered the opportunity to augment the liquidity of Koios tokens through the deposit of 2,000 ADA and an equivalent quantity of Koios tokens into a designated liquidity pool.
 - **Automated Participation Tracking**: A signup page is not necessary in order to participate in the "Provide to Subscribe" model. In order to validate the participation of pool operators, the Koios team will conduct cross-referencing between the stake addresses supplied by liquidity providers and the stake addresses of the wallets that the pools have pledged. This enables the Koios team to identify participating pools automatically for each epoch.
-- **Snapshot and Rewards Distribution**: The team can ascertain and validate responsibility for claiming rewards via the [DripDropz](https://dripdropz.io/) platform by capturing a snapshot of the relevant pool delegators at each epoch.
+- **Snapshot and Rewards Distribution**: The team can ascertain and validate responsibility for claiming rewards via the [TosiDrop](https://TosiDrop.io/) platform by capturing a snapshot of the relevant pool delegators at each epoch.
 - **Duration and Limits**: The initiative shall persist until the distribution of three million Koios tokens is completed or until it reaches the end of one year (from June 1, 2024 to June 1, 2025), whichever occurs first.
 
 ## Benefits
 
-- **Accessibility for Delegators**: The provision of complimentary Koios tokens to delegators via the [DripDropz](https://dripdropz.io/) platform serves to stimulate increased investment and engagement within the Koios ecosystem.
-- **Incentives for SPOs**: SPOs benefit not only from potential rewards derived from increased token valuation and trading fees, but also from the stabilization of the token's market presence, which is achieved through their contribution to the liquidity pool.
+- **Accessibility for Delegators**: The provision of complimentary Koios tokens to delegators via the [TosiDrop](https://TosiDrop.io/) platform serves to stimulate increased investment and engagement within the Koios ecosystem.
+- **Incentives for SPOs**: SPOs stand to benefit not only from increased token valuation and trading fees, but also from promoting market stability through their active participation in the liquidity pool. Furthermore, their participation in this process has the potential to attract additional delegators, increasing their benefits.
+
 - **Enhanced Token Utility**: By ensuring that Koios tokens are readily available for immediate use within the ecosystem, the liquidity provided by this model increases the token's overall utility and demand.
 
 ## Strategic Importance

@@ -64,25 +64,31 @@ This chart represents the allocation of the total 10 million Koios tokens among 
 
 | Category                             | Year 1   | Year 2   | Year 3   | Year 4   | Year 5   | Total Distributed |
 |--------------------------------------|----------|----------|----------|----------|----------|-------------------|
-| Liquidity Pool (7%)                  | 700k        | 0 | 0 | 0 | 0 | **700k**         |
-| Nodes Rewards (20%)                  | 0        | 500k | 500k | 500k | 500k | **2Mil**         |
-| Koios Contributors (10%)             | 200k | 200k | 200k | 200k | 200k | **1Mil**         |
-| Provide To Subscribe (30%)           | 3Mil| 0        | 0        | 0        | 0        | **3Mil**         |
+| Liquidity Pool [7%](#note)                 | 700k        | 0 | 0 | 0 | 0 | **700k**         |
+| Nodes Rewards [20%](#reward-calculation-for-nodes)| [0](#reward-calculation-for-nodes)| 500k | 500k | 500k | 500k | **2Mil**         |
+| Koios Contributors [10%](#note)             | 200k | 200k | 200k | 200k | 200k | **1Mil**         |
+| Provide To Subscribe [30%](#provide-to-subscribe)| 3Mil| 0        | 0        | 0        | 0        | **3Mil**         |
 | Community Initiatives and Partnerships (5%) | 100k | 100k | 100k | 100k | 100k | **500k**           |
 | Marketing and Future Development (5%)| 100k | 100k | 100k | 100k | 100k | **500k**           |
 | **Total Distributed per Year**       | 4.1Mil| 900k | 900k | 900k | 900k | **_7.7Mil_**         |
 
-#### _Note:_
+### Note
+
+* The treasury's allocation (30%), totaling 3 million tokens , does not require a vesting period and is reserved specifically for targeted proposals. These allocations will be determined using Koios governance's structured voting processes, ensuring alignment with our strategic objectives and community input.
+* The 7% Liquidity Pool allocation comes from the (30%) treasury wallet and is not subject to vesting. This liquidity pool is an important resource for maintaining liquidity throughout the ecosystem, ensuring smooth trading operations, and facilitating efficient market participation.
+* **Koios Contributors** will receive financial allocations based on governance decisions and outcomes.
+
+### Provide To Subscribe
 
 For a detailed understanding of the operational mechanics behind the "Provide To Subscribe" Campaign, please consult the [Provide To Subscribe Campaign](Provide_To_Subscribe.md) document. Any tokens not allocated through this Campaign will be redirected to the treasury.
-
-The treasury's allocation, totaling 3 million tokens, does not require a vesting period and is reserved specifically for targeted proposals. These allocations will be determined using Koios governance's structured voting processes, ensuring alignment with our strategic objectives and community input.
-
-An additional 2 million tokens to reward koios nodes are scheduled to be distributed commencing in the second year, with an annual disbursement of 500k tokens. This strategic incentive is intended to reward nodes for their critical role in maintaining and advancing the decentralization of the Koios network, reinforcing the core principles of our tokenomics framework. This approach not only strengthens the network, but also demonstrates our commitment to fair and transparent token distribution.
 
 ## **Reward Calculation for Nodes**
 
 Consistent with Koios' dedication to cultivating a resilient and collaborative network, an all-encompassing approach to token distribution has been devised to motivate and compensate the crucial nodes composing the Koios ecosystem.
+
+* An additional 2 million tokens to reward koios nodes are scheduled to be _**distributed commencing in the second year**_, with an annual disbursement of 500k tokens. This strategic incentive is intended to reward nodes for their critical role in maintaining and advancing the decentralization of the Koios network, reinforcing the core principles of our tokenomics framework. This approach not only strengthens the network, but also demonstrates our commitment to fair and transparent token distribution.
+
+* Even if no funds are allocated for Nodes Rewards during the first year, _**individuals who run a node during the first year may still receive incentives**_ based on governance decisions.
 
 ### Revenue Allocation from Advanced API Access
 
